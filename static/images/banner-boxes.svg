@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 90" style="enable-background:new 0 0 160 90;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FF6633;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#FF6633;}
+	.st3{fill:#FF7030;}
+	.st4{fill:#FF7A2D;}
+	.st5{fill:#FF842A;}
+	.st6{fill:#FF8D28;}
+	.st7{fill:#FF9626;}
+	.st8{fill:#FFA026;}
+	.st9{fill:#FFA926;}
+	.st10{fill:#FFB227;}
+	.st11{fill:#FFBB2A;}
+	.st12{fill:#FFC32E;}
+	.st13{fill:#FFCC33;}
+	.st14{fill:#FF6633;fill-opacity:0.4;}
+	.st15{fill:#FF7030;fill-opacity:0.4;}
+	.st16{fill:#FF7A2D;fill-opacity:0.4;}
+	.st17{fill:#FF842A;fill-opacity:0.4;}
+	.st18{fill:#FF8D28;fill-opacity:0.4;}
+	.st19{fill:#FF9626;fill-opacity:0.4;}
+	.st20{fill:#FFA026;fill-opacity:0.4;}
+	.st21{fill:#FFA926;fill-opacity:0.4;}
+	.st22{fill:#FFB227;fill-opacity:0.4;}
+	.st23{fill:#FFBB2A;fill-opacity:0.4;}
+	.st24{fill:#FFC32E;fill-opacity:0.4;}
+	.st25{fill:#FFCC33;fill-opacity:0.4;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0.3" y="0.3" width="159.5" height="89.3"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="0.3" y="-32.9" class="st0" width="160" height="186.6"/>
+	<g class="st1">
+		<path class="st2" d="M236-28.7L-81.1-194.6v-31.1L236-59.8V-28.7z"/>
+		<path class="st3" d="M236,2.4L-81.1-163.5v-31.1L236-28.7V2.4z"/>
+		<path class="st4" d="M236,33.5L-81.1-132.4v-31.1L236,2.4V33.5z"/>
+		<path class="st5" d="M236,64.6L-81.1-101.3v-31.1L236,33.5V64.6z"/>
+		<path class="st6" d="M236,95.6L-81.1-70.2v-31.1L236,64.6V95.6z"/>
+		<path class="st7" d="M236,126.7L-81.1-39.1v-31.1L236,95.6V126.7z"/>
+		<path class="st8" d="M236,157.8L-81.1-8v-31.1L236,126.7V157.8z"/>
+		<path class="st9" d="M236,188.9L-81.1,23.1V-8L236,157.8V188.9z"/>
+		<path class="st10" d="M236,220L-81.1,54.2V23.1L236,188.9V220z"/>
+		<path class="st11" d="M236,251.1L-81.1,85.3V54.2L236,220V251.1z"/>
+		<path class="st12" d="M236,282.2L-81.1,116.4V85.3L236,251.1V282.2z"/>
+		<path class="st13" d="M236,313.3L-81.1,147.5v-31.1L236,282.2V313.3z"/>
+		<g>
+			<path class="st14" d="M236-194.6L-81.1-28.7v-31.1L236-225.7V-194.6z"/>
+			<path class="st15" d="M236-163.5L-81.1,2.4v-31.1L236-194.6V-163.5z"/>
+			<path class="st16" d="M236-132.4L-81.1,33.5V2.4L236-163.5V-132.4z"/>
+			<path class="st17" d="M236-101.3L-81.1,64.6V33.5L236-132.4V-101.3z"/>
+			<path class="st18" d="M236-70.2L-81.1,95.6V64.6L236-101.3V-70.2z"/>
+			<path class="st19" d="M236-39.1L-81.1,126.7V95.6L236-70.2V-39.1z"/>
+			<path class="st20" d="M236-8L-81.1,157.8v-31.1L236-39.1V-8z"/>
+			<path class="st21" d="M236,23.1L-81.1,188.9v-31.1L236-8V23.1z"/>
+			<path class="st22" d="M236,54.2L-81.1,220v-31.1L236,23.1V54.2z"/>
+			<path class="st23" d="M236,85.3L-81.1,251.1V220L236,54.2V85.3z"/>
+			<path class="st24" d="M236,116.4L-81.1,282.2v-31.1L236,85.3V116.4z"/>
+			<path class="st25" d="M236,147.5L-81.1,313.3v-31.1L236,116.4V147.5z"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,45 @@
+/*----------------------------------------------
+*
+* [Theme Blue Stylesheet]
+*
+* Theme    : Leverage
+* Version  : 2.1
+* Author   : Codings
+* Support  : codings.dev
+*
+----------------------------------------------*/
+
+/*----------------------------------------------
+
+[ALL CONTENTS]
+
+1. Root
+
+----------------------------------------------*/
+
+/*----------------------------------------------
+1. Root
+----------------------------------------------*/
+
+/* #region Root */
+
+:root {
+    --primary-color: #1E50BC;
+    --secondary-color: #1a8fe3;
+    --header-bg-color: #040402;
+    --nav-item-color: #f5f5f5;
+    --top-nav-item-color: #f5f5f5;
+    --hero-bg-color: #040402;
+
+    --section-1-bg-color: #111111;
+    --section-2-bg-color: #191919;
+    --section-3-bg-color: #040402;
+    --section-4-bg-color: #111111;
+    --section-5-bg-color: #191919;
+    --section-6-bg-color: #040402;
+    --section-7-bg-color: #111111;
+
+    --footer-bg-color: #191919;
+}
+
+/* #endregion Root */
