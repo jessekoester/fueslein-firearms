@@ -46,16 +46,13 @@ export default function View () {
     })
   }
 
-  const photos = mapImages()[0].images.map(image => {
-    console.log(image)
+  const photos = mapImages()[0]?.images.map(image => {
     return {
       src: `/content/gallery/${image.node.relativeDirectory}/${image.node.name}.${image.node.extension}`,
       width: 3,
       height: 4
     }
   })
-
-  console.log(photos)
 
   return (
     <Fragment>
