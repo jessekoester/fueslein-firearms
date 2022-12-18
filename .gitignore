@@ -5,3 +5,8 @@ public/
 .intermediate-representation
 .cache
 node_modules
+
+content/
+.env.development
+server.cert
+server.key

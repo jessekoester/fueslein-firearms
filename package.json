@@ -6,8 +6,8 @@
   "license": "UNLICENSED",
   "scripts": {
     "cpdir": "cp -r ./content  ./public",
-    "build": "gatsby clean build",
-    "develop": " gatsby clean develop --https",
+    "build": "gatsby build",
+    "develop": "gatsby clean develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -18,9 +18,10 @@
     "@emotion/core": "^10.3.1",
     "@emotion/react": "^11.9.0",
     "@popperjs/core": "^2.9.3",
+    "auth0-js": "^9.20.0",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
-    "gatsby": "^4.14.0",
+    "gatsby": "^4.25.0",
     "gatsby-cli": "^2.11.9",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-emotion": "^7.14.0",
@@ -47,6 +48,7 @@
     "sass": "^1.42.1",
     "sass-loader": "^12.1.0",
     "slick-carousel": "^1.8.1",
+    "typescript": "^4.9.4",
     "use-query-params": "^1.2.3"
   },
   "devDependencies": {
