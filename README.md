@@ -1,16 +1,16 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
-  Vitalign Spine Center
+  Fueslein Firearms
 </h1>
 ## 🚀 Quick start
 
-1.  **Clone Vitalign Spine Center Repo.**
+1.  **Clone Fueslein Firearms Repo.**
 
     Use the Git CLI to clone the site.
 
     ```shell
-    # clone the Vitalign Spine Center repo
-    git clone https://github.com/jessekoester/vitalign-spine-clinic.git
+    # clone the Fueslein Firearms repo
+    git clone https://github.com/jessekoester/fueslein-firearms.git
     ```
 
 1.  **Start developing.**
@@ -18,7 +18,7 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd vitalign-spine-center
+    cd fueslein-firearms
     gatsby develop
     ```
 
